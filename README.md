@@ -1,16 +1,25 @@
-## Hi there 👋
+![Header](./github-header-image.png)
 
-<!--
-**taoli1998/taoli1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+🎓 &nbsp;I'm a graduate Systems Engineering student from Simon Fraser University.\
+🌱 &nbsp;I am proficient in programming language like C/C++ and python, and Hardware Description Language like VHDL/Verilog.\
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+✍️ &nbsp;In my free time, I love exploring and adventuring the world with activities like camping, skiing\
+💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at taoli1998@hotmail.com! I'll try to respond as soon as I can.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/taolieng"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="taoli1998@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
