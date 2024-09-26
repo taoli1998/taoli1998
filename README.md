@@ -7,7 +7,7 @@
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I love exploring and adventuring the world with activities like camping, skiing\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at taoli1998@hotmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at taoli1998@hotmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
