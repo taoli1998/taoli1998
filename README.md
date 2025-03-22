@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a fifth-year Systems Engineering student from Simon Fraser University.\
+🎓 &nbsp;I'm a graduate Systems Engineering student from Simon Fraser University.\
 🌱 &nbsp;I am proficient in programming language like C/C++ and python, and Hardware Description Language like VHDL/Verilog.\
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I love exploring and adventuring the world with activities like camping, skiing\
